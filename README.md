@@ -5,3 +5,4 @@ the defaultpassword is password.
 # securelocker
 a GUI based file for windows.this can only encrypt.
 you choose file and password. forget it, you are coocked
+#to download, iccif.github.io/lockman-securelocker
